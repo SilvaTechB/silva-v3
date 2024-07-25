@@ -48,7 +48,7 @@
   },
   "buildpacks": [
     {
-      "url": "heroku/nodejs"
+      "url": "https://heroku/nodejs"
     },
     {
       "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
